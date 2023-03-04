@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{48AE14A3-619E-4FD6-9C06-52D8D189914C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freddie.API", "src\Freddie.API\Freddie.API.csproj", "{898DE221-7806-482E-9EAA-B92C019A808B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898DE221-7806-482E-9EAA-B92C019A808B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898DE221-7806-482E-9EAA-B92C019A808B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898DE221-7806-482E-9EAA-B92C019A808B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898DE221-7806-482E-9EAA-B92C019A808B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{898DE221-7806-482E-9EAA-B92C019A808B} = {48AE14A3-619E-4FD6-9C06-52D8D189914C}
+	EndGlobalSection
+EndGlobal
