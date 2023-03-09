@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freddie.API", "src\Freddie.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freddie.Domain", "src\Freddie.Domain\Freddie.Domain.csproj", "{3CD3039C-0029-4379-9D78-9F23CBD367A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freddie.Console", "src\Freddie.Console\Freddie.Console.csproj", "{782B3C73-1D9B-4AD3-B2BF-2BFBABA96254}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +28,14 @@ Global
 		{3CD3039C-0029-4379-9D78-9F23CBD367A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CD3039C-0029-4379-9D78-9F23CBD367A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CD3039C-0029-4379-9D78-9F23CBD367A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782B3C73-1D9B-4AD3-B2BF-2BFBABA96254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782B3C73-1D9B-4AD3-B2BF-2BFBABA96254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782B3C73-1D9B-4AD3-B2BF-2BFBABA96254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782B3C73-1D9B-4AD3-B2BF-2BFBABA96254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{898DE221-7806-482E-9EAA-B92C019A808B} = {48AE14A3-619E-4FD6-9C06-52D8D189914C}
 		{3CD3039C-0029-4379-9D78-9F23CBD367A2} = {48AE14A3-619E-4FD6-9C06-52D8D189914C}
+		{782B3C73-1D9B-4AD3-B2BF-2BFBABA96254} = {48AE14A3-619E-4FD6-9C06-52D8D189914C}
 	EndGlobalSection
 EndGlobal
